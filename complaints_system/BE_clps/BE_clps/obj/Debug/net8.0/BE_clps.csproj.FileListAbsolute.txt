@@ -34,3 +34,6 @@ C:\Users\j.canulli\Documents\microservices_review\complaints_system\BE_clps\BE_c
 C:\Users\j.canulli\Documents\microservices_review\complaints_system\BE_clps\BE_clps\obj\Debug\net8.0\BE_clps.pdb
 C:\Users\j.canulli\Documents\microservices_review\complaints_system\BE_clps\BE_clps\obj\Debug\net8.0\BE_clps.genruntimeconfig.cache
 C:\Users\j.canulli\Documents\microservices_review\complaints_system\BE_clps\BE_clps\obj\Debug\net8.0\ref\BE_clps.dll
+C:\Users\j.canulli\Documents\microservices_review\complaints_system\BE_clps\BE_clps\obj\Debug\net8.0\BE_clps.sourcelink.json
+C:\Users\j.canulli\Documents\microservices_review\complaints_system\BE_clps\BE_clps\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\j.canulli\Documents\microservices_review\complaints_system\BE_clps\BE_clps\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll

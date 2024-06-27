@@ -13,7 +13,7 @@ namespace BE_clps.Models
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Complainant>()
-                .HasKey(cnant => new { cnant.ComplainatId });
+                .HasKey(cnant => new { cnant.ComplainantId });
 
             modelBuilder.Entity<Complaint>()
                 .HasKey(c => new { c.ComplaintId });

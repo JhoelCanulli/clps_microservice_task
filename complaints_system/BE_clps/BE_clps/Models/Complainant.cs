@@ -6,7 +6,7 @@ namespace BE_clps.Models
     [Table("Complainant")]
     public class Complainant
     {
-        public int ComplainatId { get; set; }
+        public int ComplainantId { get; set; }
         public string DocumentCnant { get; set; } = null!;
         public string NameCnant { get; set; } = null!;
         public string CityCnant { get; set; } = null!;
