@@ -1,0 +1,6 @@
+@BE_clps_HostAddress = http://localhost:5208
+
+GET {{BE_clps_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
