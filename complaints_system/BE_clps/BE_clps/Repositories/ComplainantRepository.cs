@@ -16,7 +16,7 @@ namespace BE_clps.Repositories
             _context = context;
         }
         #endregion
-        
+
         //#region singleton
         //private static ComplainantRepository? _instance;
         //public static ComplainantRepository GetInstance()
@@ -28,6 +28,8 @@ namespace BE_clps.Repositories
 
         //private ComplainantRepository() { }
         //#endregion
+
+        #region crud
         public bool Create(Complainant entity)
         {
             try
@@ -112,5 +114,6 @@ namespace BE_clps.Repositories
             }
             return false;
         }
+        #endregion
     }
 }

@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\controllers\\complaintcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\controllers\\complaintcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\controllers\\subjctcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\controllers\\subjctcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\repositories\\subjctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\repositories\\subjctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\controllers\\complainantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\controllers\\complainantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\services\\complainantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\services\\complainantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\dto\\complaintdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\dto\\complaintdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\dto\\subjctdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\dto\\subjctdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\dto\\complainantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\dto\\complainantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\models\\complainant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\models\\complainant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\controllers\\complaintcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\controllers\\complaintcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\models\\subjct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,44 +63,24 @@
       "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\repositories\\complainantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\models\\complainant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\models\\complainant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\controllers\\complainantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\controllers\\complainantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\repositories\\complaintrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\repositories\\complaintrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\services\\complaintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\services\\complaintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\repositories\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\repositories\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\services\\subjctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\services\\subjctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\repositories\\complaintrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\repositories\\complaintrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\services\\complaintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\services\\complaintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\repositories\\subjctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\repositories\\subjctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\services\\subjctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|solutionrelative:be_clps\\services\\subjctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8744B6F-F237-4E62-9390-2B2CB5686DC0}|BE_clps\\BE_clps.csproj|c:\\users\\j.canulli\\documents\\microservices_review\\complaints_system\\be_clps\\be_clps\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -77,77 +93,90 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 366,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 601,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubjctRepository.cs",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\SubjctRepository.cs",
-              "RelativeDocumentMoniker": "BE_clps\\Repositories\\SubjctRepository.cs",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\SubjctRepository.cs",
-              "RelativeToolTip": "BE_clps\\Repositories\\SubjctRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAIAAAA",
+              "DocumentIndex": 4,
+              "Title": "ComplaintDTO.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\DTO\\ComplaintDTO.cs",
+              "RelativeDocumentMoniker": "BE_clps\\DTO\\ComplaintDTO.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\DTO\\ComplaintDTO.cs",
+              "RelativeToolTip": "BE_clps\\DTO\\ComplaintDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T14:30:45.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Program.cs",
-              "RelativeDocumentMoniker": "BE_clps\\Program.cs",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Program.cs",
-              "RelativeToolTip": "BE_clps\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:08:01.339Z",
+              "WhenOpened": "2024-06-28T07:48:14.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\DTO\\PersonDTO.cs",
+              "RelativeDocumentMoniker": "BE_clps\\DTO\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\DTO\\PersonDTO.cs",
+              "RelativeToolTip": "BE_clps\\DTO\\PersonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:54:36.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubjctDTO.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\DTO\\SubjctDTO.cs",
+              "RelativeDocumentMoniker": "BE_clps\\DTO\\SubjctDTO.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\DTO\\SubjctDTO.cs",
+              "RelativeToolTip": "BE_clps\\DTO\\SubjctDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:48:05.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Complaint.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Complaint.cs",
+              "RelativeDocumentMoniker": "BE_clps\\Models\\Complaint.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Complaint.cs",
+              "RelativeToolTip": "BE_clps\\Models\\Complaint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:31:05.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ComplainantService.cs",
               "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Services\\ComplainantService.cs",
               "RelativeDocumentMoniker": "BE_clps\\Services\\ComplainantService.cs",
               "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Services\\ComplainantService.cs",
               "RelativeToolTip": "BE_clps\\Services\\ComplainantService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T15:18:22.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Context.cs",
-              "RelativeDocumentMoniker": "BE_clps\\Models\\Context.cs",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Context.cs",
-              "RelativeToolTip": "BE_clps\\Models\\Context.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAywCAAAAAIAAAA",
+              "DocumentIndex": 1,
+              "Title": "ComplainantController.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Controllers\\ComplainantController.cs",
+              "RelativeDocumentMoniker": "BE_clps\\Controllers\\ComplainantController.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Controllers\\ComplainantController.cs",
+              "RelativeToolTip": "BE_clps\\Controllers\\ComplainantController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA5wDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:31:13.429Z",
+              "WhenOpened": "2024-06-27T15:50:32.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ComplaintController.cs",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Controllers\\ComplaintController.cs",
-              "RelativeDocumentMoniker": "BE_clps\\Controllers\\ComplaintController.cs",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Controllers\\ComplaintController.cs",
-              "RelativeToolTip": "BE_clps\\Controllers\\ComplaintController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T16:26:50.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "SubjctController.cs",
               "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Controllers\\SubjctController.cs",
               "RelativeDocumentMoniker": "BE_clps\\Controllers\\SubjctController.cs",
@@ -160,20 +189,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ComplainantRepository.cs",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\ComplainantRepository.cs",
-              "RelativeDocumentMoniker": "BE_clps\\Repositories\\ComplainantRepository.cs",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\ComplainantRepository.cs",
-              "RelativeToolTip": "BE_clps\\Repositories\\ComplainantRepository.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAjwGAAAAAIAAAA",
+              "DocumentIndex": 7,
+              "Title": "ComplainantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\DTO\\ComplainantDTO.cs",
+              "RelativeDocumentMoniker": "BE_clps\\DTO\\ComplainantDTO.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\DTO\\ComplainantDTO.cs",
+              "RelativeToolTip": "BE_clps\\DTO\\ComplainantDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T14:30:30.893Z",
+              "WhenOpened": "2024-06-28T07:47:53.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "Complainant.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Complainant.cs",
+              "RelativeDocumentMoniker": "BE_clps\\Models\\Complainant.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Complainant.cs",
+              "RelativeToolTip": "BE_clps\\Models\\Complainant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:00:50.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\appsettings.json",
+              "RelativeDocumentMoniker": "BE_clps\\appsettings.json",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\appsettings.json",
+              "RelativeToolTip": "BE_clps\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T13:07:54.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Program.cs",
+              "RelativeDocumentMoniker": "BE_clps\\Program.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Program.cs",
+              "RelativeToolTip": "BE_clps\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:08:01.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "BE_clps\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Context.cs",
+              "RelativeToolTip": "BE_clps\\Models\\Context.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:31:13.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ComplaintController.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Controllers\\ComplaintController.cs",
+              "RelativeDocumentMoniker": "BE_clps\\Controllers\\ComplaintController.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Controllers\\ComplaintController.cs",
+              "RelativeToolTip": "BE_clps\\Controllers\\ComplaintController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAjwC8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:26:50.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Subjct.cs",
               "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Subjct.cs",
               "RelativeDocumentMoniker": "BE_clps\\Models\\Subjct.cs",
@@ -186,93 +280,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Complaint.cs",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Complaint.cs",
-              "RelativeDocumentMoniker": "BE_clps\\Models\\Complaint.cs",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Complaint.cs",
-              "RelativeToolTip": "BE_clps\\Models\\Complaint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "DocumentIndex": 14,
+              "Title": "ComplainantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\ComplainantRepository.cs",
+              "RelativeDocumentMoniker": "BE_clps\\Repositories\\ComplainantRepository.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\ComplainantRepository.cs",
+              "RelativeToolTip": "BE_clps\\Repositories\\ComplainantRepository.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwG8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:31:05.619Z",
+              "WhenOpened": "2024-06-27T14:30:30.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Complainant.cs",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Complainant.cs",
-              "RelativeDocumentMoniker": "BE_clps\\Models\\Complainant.cs",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Models\\Complainant.cs",
-              "RelativeToolTip": "BE_clps\\Models\\Complainant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:31:30.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ComplainantController.cs",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Controllers\\ComplainantController.cs",
-              "RelativeDocumentMoniker": "BE_clps\\Controllers\\ComplainantController.cs",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Controllers\\ComplainantController.cs",
-              "RelativeToolTip": "BE_clps\\Controllers\\ComplainantController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwDUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T15:50:32.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\appsettings.json",
-              "RelativeDocumentMoniker": "BE_clps\\appsettings.json",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\appsettings.json",
-              "RelativeToolTip": "BE_clps\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-27T13:07:54.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ComplaintRepository.cs",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\ComplaintRepository.cs",
-              "RelativeDocumentMoniker": "BE_clps\\Repositories\\ComplaintRepository.cs",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\ComplaintRepository.cs",
-              "RelativeToolTip": "BE_clps\\Repositories\\ComplaintRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T14:30:12.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ICrudRepository.cs",
               "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\ICrudRepository.cs",
               "RelativeDocumentMoniker": "BE_clps\\Repositories\\ICrudRepository.cs",
               "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\ICrudRepository.cs",
               "RelativeToolTip": "BE_clps\\Repositories\\ICrudRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T14:33:27.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SubjctService.cs",
-              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Services\\SubjctService.cs",
-              "RelativeDocumentMoniker": "BE_clps\\Services\\SubjctService.cs",
-              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Services\\SubjctService.cs",
-              "RelativeToolTip": "BE_clps\\Services\\SubjctService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T15:18:45.058Z",
               "EditorCaption": ""
             },
             {
@@ -290,7 +319,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
+              "Title": "ComplaintRepository.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\ComplaintRepository.cs",
+              "RelativeDocumentMoniker": "BE_clps\\Repositories\\ComplaintRepository.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\ComplaintRepository.cs",
+              "RelativeToolTip": "BE_clps\\Repositories\\ComplaintRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:30:12.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubjctRepository.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\SubjctRepository.cs",
+              "RelativeDocumentMoniker": "BE_clps\\Repositories\\SubjctRepository.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Repositories\\SubjctRepository.cs",
+              "RelativeToolTip": "BE_clps\\Repositories\\SubjctRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:30:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubjctService.cs",
+              "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Services\\SubjctService.cs",
+              "RelativeDocumentMoniker": "BE_clps\\Services\\SubjctService.cs",
+              "ToolTip": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Services\\SubjctService.cs",
+              "RelativeToolTip": "BE_clps\\Services\\SubjctService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:18:45.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\j.canulli\\Documents\\microservices_review\\complaints_system\\BE_clps\\BE_clps\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BE_clps\\Properties\\launchSettings.json",
@@ -298,8 +365,7 @@
               "RelativeToolTip": "BE_clps\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAUAAAAAAAAAAABRwBMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-27T13:27:40.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T13:27:40.915Z"
             }
           ]
         }

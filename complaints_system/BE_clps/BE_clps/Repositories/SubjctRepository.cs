@@ -15,6 +15,7 @@ namespace BE_clps.Repositories
         }
         #endregion
 
+        #region crud
         public bool Create(Subjct entity)
         {
             try
@@ -98,5 +99,6 @@ namespace BE_clps.Repositories
             }
             return false;
         }
+        #endregion 
     }
 }

@@ -15,6 +15,7 @@ namespace BE_clps.Repositories
         }
         #endregion
 
+        #region
         public bool Create(Complaint entity)
         {
             try
@@ -98,5 +99,6 @@ namespace BE_clps.Repositories
             }
             return false;
         }
+        #endregion
     }
 }
